@@ -1,4 +1,4 @@
-![](https://github.com/ETHAN0430/ETHAN0430/raw/main/Snipaste_2026-01-31_17-24-11.png)
+
 ```python
 tag = input("🔥Yo homie, what you tryna know 'bout me?👑").lower()
 
