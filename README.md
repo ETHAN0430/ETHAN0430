@@ -18,7 +18,7 @@ match tag:
         print("🧠 Psychology: Social Psychology | Negotiation | Game Theory")
 
     case "investment":
-        print("📈 Investment: Warren Buffett | Mr. Duan")
+        print("📈 Investment: YONGPING DUAN | Warren Buffett")
 
     case _:
         print("🎵 Doctor, Actor, Lawyer, or a Singer ~\n
