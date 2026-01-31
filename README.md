@@ -1,16 +1,22 @@
-## Hi there 👋
+```java
+public class MyIdentity {
+    public static void main(String[] args) {
+        // 我的身份？不用选，全都要！
+        int choice = 3; 
 
-<!--
-**ETHAN0430/ETHAN0430** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+        switch (choice) {
+            case 1:
+                System.out.println("🤵 Tech-minded PM: 懂代码的产品经理，不画空中楼阁～");
+                break;
+            case 2:
+                System.out.println("👨💻 Product-minded dev: 懂产品的程序员，不写无用代码～");
+                break;
+            case 3:
+                System.out.println("🔥 Why choose? Tech-minded PM + Product-minded dev — I want it all!");
+                break;
+            default:
+                System.out.println("😜 别纠结，反正我全都要～");
+                break;
+        }
+    }
+}
