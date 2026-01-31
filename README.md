@@ -23,4 +23,4 @@ match tag:
     case _:
         print("🎵 Doctor, Actor, Lawyer, or a Singer ~\n
                🎵 Why not President, Be a dreamer ~\n
-               🎵 I can be just the one I wanna be ~")
+               ✨ I can be just the one I wanna be ~")
