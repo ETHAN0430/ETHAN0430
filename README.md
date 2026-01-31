@@ -7,7 +7,7 @@ match tag:
         print("🌐 Field: Search | Ads | Recommendation | AI")
 
     case "tech":
-        print("💻 Tech: Computer Science | Backend | Distributed Systems")
+        print("💻 Tech: Computer Science | Software Engineer | Distributed Systems")
 
     case "product":
         print("📊 Product: Demand | Value | Consensus | Model")
