@@ -21,6 +21,9 @@ match tag:
     case "investment":
         print("📈 Investment: YONGPING DUAN | Warren Buffett")
 
+    case "marketing":
+        print("📣 Marketing: 2026 Exploring")
+
     case _:
         print("🎵 Doctor, Actor, Lawyer, or a Singer ~\n
                🎵 Why not President, Be a dreamer ~\n
